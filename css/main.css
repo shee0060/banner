@@ -22,6 +22,11 @@ html {
 .img-flex {
   display: block;
   width: 100%;
+  max-height: 50%;
+}
+
+.wrapper {
+  overflow: hidden;
 }
 
 .banner {
@@ -32,4 +37,5 @@ html {
   position: absolute;
   bottom: 0.125rem;
   color: #fff;
+  width: 100%;
 }
