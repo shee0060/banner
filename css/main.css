@@ -25,11 +25,8 @@ html {
 }
 
 .banner {
-  position: relative;
 }
 
 .banner-content {
-  overflow: hidden;
-  position: absolute;
   color: #fff;
 }
