@@ -30,12 +30,12 @@ html {
 
 .banner {
   position: relative;
-  max-height: 525px;
+  max-height: 570px;
 }
 
 .banner-content {
   position: absolute;
-  bottom: 0.125rem;
+  bottom: .125rem;
   color: #fff;
   width: 100%;
 }
