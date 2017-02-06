@@ -22,7 +22,6 @@ html {
 .img-flex {
   display: block;
   width: 100%;
-  max-height: 50%;
 }
 
 .wrapper {
@@ -31,6 +30,7 @@ html {
 
 .banner {
   position: relative;
+  max-height: 500px;
 }
 
 .banner-content {
